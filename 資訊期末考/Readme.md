@@ -1,5 +1,5 @@
 # 《台南一中高一下資訊期末考投稿》
-內含7題 (BlueCloud,GoHome,InfMod,InfPowMod,Palindrome,PerfectCoin,Plus)  
+內含8題 (Angle,BlueCloud,GoHome,InfMod,InfPowMod,Palindrome,PerfectCoin,Plus)  
   
 涵蓋知識範圍:  
   - 語法: 陣列、一點點字串、迴圈
