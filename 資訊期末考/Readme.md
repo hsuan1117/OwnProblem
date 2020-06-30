@@ -2,7 +2,7 @@
 內含7題 (BlueCloud,GoHome,InfMod,InfPowMod,Palindrome,PerfectCoin,Plus)  
   
 涵蓋知識範圍:  
-  - 語法: 陣列、一點點字串
+  - 語法: 陣列、一點點字串、迴圈
   - 演算法: DP、Reverse、最短路徑
   - 大數運算、同餘定理  
 
