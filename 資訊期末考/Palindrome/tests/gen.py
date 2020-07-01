@@ -2,12 +2,11 @@ import random
 
 wordMin = 1e1
 wordMax = 1e3
-taskNum = 15
+taskNum = 3
 
 with open(f"Input/task{taskNum:02}.txt","w") as f:
     ansList = []
-    #for i in range(1):
-    for i in range(random.randrange(10,1000)):
+    for i in range(5):
         ansType  = random.randrange(1,1e15)
         wordList = []
         if ansType % 2 == 0 :
