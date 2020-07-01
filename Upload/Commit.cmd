@@ -2,7 +2,7 @@
 echo =================
 echo === Auto Sync ===
 echo =================
-cd D:\OwnProblem
+cd %cd%\..\
 git add .
 set /p MSG = "Commit msg: "
 git commit -a -m MSG
