@@ -2,7 +2,7 @@
 echo =================
 echo === Auto Sync ===
 echo =================
-cd D:\OwnProblem
+cd ../%cd%
 git add .
 git commit -a -m "sync" 
 git push
